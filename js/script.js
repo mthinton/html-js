@@ -1,3 +1,3 @@
 window.onload = function() {
-	document.getElementById("test").innerHTML = "hello"
+	document.getElementById("test").innerHTML = "hello world"
 }
